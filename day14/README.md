@@ -7,3 +7,5 @@ I like cheese
 But only some kinds
 
 Gorgonzola is my favorite
+
+Cheddar is also good
